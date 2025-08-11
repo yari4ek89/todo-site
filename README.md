@@ -36,5 +36,5 @@ Tasks can be added, marked as complete, and deleted. All data is saved locally i
 ## 📦 Installation & Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/yari4ek89/todo-app.git
 2. Open index.html in your browser.
